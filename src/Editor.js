@@ -22,7 +22,7 @@ function Editor({ docId, username }) {
       socket.off("receive-changes");
       socket.off("load-document");
     };
-  }, [docId]);
+  }, [docId, username]);
 
   const handleChange = (e) => {
     const value = e.target.value;
