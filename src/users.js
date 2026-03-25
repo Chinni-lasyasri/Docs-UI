@@ -1,0 +1,13 @@
+export const USERS = [
+  { username: "111", password: "111" },
+  { username: "222", password: "222" },
+  { username: "333", password: "333" },
+  { username: "444", password: "444" },
+  { username: "555", password: "555" },
+  { username: "666", password: "666" },
+  { username: "777", password: "777" },
+  { username: "888", password: "888" },
+  { username: "999", password: "999" },
+  { username: "admin", password: "admin123" },
+];
+
